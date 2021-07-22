@@ -7,7 +7,7 @@
 
 ## Updating Gorilla Tag
 
-> Updating Gorilla Tag will *wipe your settings*, like name, colors, queue, etc. You can easily re-add these settings through the computer in the treehouse again.
+> Updating Gorilla Tag will *wipe your settings*, like name, colors, queue, etc. You can easily re-add these settings through the computer in the treehouse again. You can easily re-add these settings through the computer in the treehouse again.
 
 Gorilla Tag while modded **cannot be updated through the Update dialog or the Store**. To update Gorilla Tag with mods, you will need to uninstall Gorilla Tag, reinstall the latest version, mod it with QuestPatcher, and then restore your mods. While it might sound long, it shouldn't be too bad.
 
