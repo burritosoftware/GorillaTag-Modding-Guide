@@ -98,14 +98,14 @@ Once the mod is installed, you should see it in the Mods section of QuestPatcher
 
 ### Uninstalling Mods
 
-Mods can be toggled by clicking the switch next to the mod. Disabling a mod makes the mod act like it is uninstalled, but you can always enable it again.
+Mods can be toggled by clicking the switch next to the mod. Mods can be toggled by clicking the switch next to the mod. Disabling a mod makes the mod act like it is uninstalled, but you can always enable it again.
 
 
 If you want to delete a mod, click the `Delete` mod next to the mod.
 
 ## Managing Cosmetics & Other Items
 
-!> To use cosmetics, you need to install the Gorilla Cosmetics mod. Otherwise they will not show up in-game.
+!> To use cosmetics, you need to install the Gorilla Cosmetics mod. Otherwise they will not show up in-game. Otherwise they will not show up in-game.
 
 To view your installed cosmetics and maps, click the `Cosmetics & Other Items` tab of QuestPatcher. Use the drop-down to select the file type you want to manage.
 
