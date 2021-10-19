@@ -19,9 +19,9 @@
 
 ![Monke Mod Manager logo](../docs/files/mmmlogo.png)
 
-?> This is currently the **recommended mod installer**.
+?> Dies ist derzeit der **empfohlene Mod-Installer**.
 
-Monke Mod Manager is a mod installer that will install custom mods into Gorilla Tag automatically, and can be re-run in order to update the mods. Monke Mod Manager also notifies you of any updates upon launch by opening the latest release's page if available.  
+Monke Mod Manager ist ein Mod-Installer, der benutzerdefinierte Mods in Gorilla Tag automatisch installiert, und kann erneut ausgeführt werden, um diese Mods zu aktualisieren. Monke Mod Manager also notifies you of any updates upon launch by opening the latest release's page if available.  
 Download Monke Mod Manager from [**Steven's GitHub**](https://github.com/DeadlyKitten/MonkeModManager/releases/latest). Select the **Assets** dropdown and download the .exe file named `MonkeModManager.exe`.
 
 > Notiz: Wenn Windows dich warnt, dass die Datei unsicher oder gefährlich ist, wählen trotzdem zu behalten oder auszuführen aus. Dies ist eine falsche Positive.
