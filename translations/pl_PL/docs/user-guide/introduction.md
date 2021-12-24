@@ -3,6 +3,8 @@
 Zacznij modyfikować grę Gorilla Tag aby zwiększyć swoje wrażenia.  
 Odrzuć człowieczeństwo, powróć do małpy.
 
+This guide is sponsored by [Assistant](https://github.com/Assistant), thanks for the support!
+
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="introduction"></div> -->
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
