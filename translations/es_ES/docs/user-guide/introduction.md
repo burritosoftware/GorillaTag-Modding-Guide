@@ -3,6 +3,8 @@
 Empieza a trabajar con modificaciones en Gorilla Tag para mejorar tu experiencia.  
 Rechaza la humanidad, vuelve al mono.
 
+This guide is sponsored by [Assistant](https://github.com/Assistant), thanks for the support!
+
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="introduction"></div> -->
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
