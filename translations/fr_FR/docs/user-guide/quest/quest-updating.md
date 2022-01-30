@@ -27,11 +27,11 @@ Lorsque GorillaTag est moddé, **il ne peut pas être mis à jour normalement ou
 
 ### Réinstaller Gorilla Tag {docsify-ignore}
 
-At this point, you should **open the Oculus Store** on your headset, search for `Gorilla Tag`, then go to the details and click **Download**. Wait for it to finish downloading and installing before continuing to the next step.
+À ce point, vous devriez **ouvrir le magasin Oculus** à partir de votre Quest, chercher `Gorilla Tag`, puis allez aux détails et appuyer **Installer**. Attendez que celui-ci ait fini le téléchargement et l'installation avant d'avancer à l'étape suivante.
 
 ### Modding de Gorilla Tag {docsify-ignore}
 
-After Gorilla Tag has finished downloading, re-follow the [**Quest Modding**](quest-guide) guide to repatch your game. Then, **reinstall your mods.**
+Après que Gorilla Tag ait fini l'installation, re-modder votre jeu avec le guide [**Modding Sur Quest**](quest-guide) pour modder votre jeu à nouveau. Then, **reinstall your mods.**
 
 !> Before reinstalling mods, you should check the source to see if they have updated or confirmed the mod to work on the latest version.
 
