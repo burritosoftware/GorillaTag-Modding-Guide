@@ -14,7 +14,7 @@ Ce guide est sponsorisé par [Assitant](https://github.com/Assistant), merci pou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-?> **Discord Help** Pour de l'aide en direct, veuillez nous voir dans **#installation-help** dans le [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) et demandez, en anglais, pour de l'aide. Veuillez regarder la section [Questions Fréquemment Demandées](faq) pour vérifier si votre ou vos questions ont déjà été répondues.
+?> **Discord Help** Pour de l'aide en direct, veuillez nous voir dans **#installation-help** dans le [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) et demandez, en anglais, pour de l'aide. Veuillez regarder la section [Questions Fréquemment Posées](faq) pour vérifier si votre ou vos questions ont déjà été répondues.
 
 ### Que pouvez-vous faire avec les mods ?
 
@@ -36,7 +36,7 @@ Modder le jeu est autorisé par les développeurs de Gorilla Tag, mais gardez à
 
 ### Objectif final
 
-Ce guide a pour intention de prendre la version complétement inchangé de Gorilla Tag de vanilla à moddée avec BepInEx (PCVR) ou QuestLoader (Quest).
+Ce guide a pour intention de prendre la version complètement inchangé de Gorilla Tag de vanilla à moddée avec BepInEx (PCVR) ou QuestLoader (Quest).
 
 ---
 >
