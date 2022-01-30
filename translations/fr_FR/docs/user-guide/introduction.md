@@ -30,9 +30,9 @@ There are *many more mods* to discover, and you'll find them in the **Downloads*
 
 ### Est-ce que le modding du jeu est sûr ?
 
-Modding the game is allowed by the developers of Gorilla Tag, however keep in mind the following:
+Modder le jeu est autorisé par les développeurs de Gorilla Tag, mais gardez à l'esprit que:
 
-!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to private lobbies. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
+!> L'utilisation de mods qui interfèrent avec le jeu dans les parties publiques est interdite par les développeurs et peut entraîner un ban. Veuillez utiliser les mods seulement dans les parties privées. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
 
 ### Objectif final
 
