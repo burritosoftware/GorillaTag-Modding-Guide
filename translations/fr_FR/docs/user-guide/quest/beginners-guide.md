@@ -14,7 +14,7 @@
 
 ## Installation de QuestPatcher
 
-Currently the only recommended way to install mods is **QuestPatcher**. Download **QuestPatcher** from [Lauriethefish's GitHub](https://github.com/Lauriethefish/QuestPatcher/releases/latest).
+Présentement, la seule manière recommandée pour installer des mods est avec **QuestPatcher**. Installez **QuestPatcher** depuis [Lauriethefish's GitHub](https://github.com/Lauriethefish/QuestPatcher/releases/latest).
 
 ### Windows
 
@@ -33,7 +33,7 @@ Currently the only recommended way to install mods is **QuestPatcher**. Download
 
 ### macOS
 
-!> QuestPatcher should automatically download Java. If you're on an older version of macOS, Java might be detected as already installed when it isn't. If you are having trouble patching, manually download Java [here](https://www.java.com/en/).
+!> QuestPatcher devrait automatiquement installer Java. Si vous utiliser une version plus ancienne de macOS, Java pourrait être détecté lorsqu'il ne l'est pas. Si vous avez de la difficulté à modder le jeu, veuillez installer manuellement Java [ici](https://www.java.com/en/).
 
 1. Sélectionnez le menu déroulant des assets sur GitHub, et cliquez sur `QuestPatcher-mac.dmg`, puis attendez que le téléchargement se termine.
 2. Ouvrez votre dossier Téléchargements, et double-cliquez sur `QuestPatcher-mac.dmg`.
@@ -49,7 +49,7 @@ Currently the only recommended way to install mods is **QuestPatcher**. Download
 
 > QuestPatcher est compilé pour [Ubuntu](https://ubuntu.com/) Linux. D'autres distributions Linux peuvent fonctionner, mais vous pouvez rencontrer des problèmes.
 
-!> These instructions are more complicated than Mac and Windows, and it is recommended that you know your way around a terminal.
+!> Ces instructions sont plus compliquées que Mac et Windows, et il vous est recommandé de savoir comment utiliser un terminal.
 
 1. Sélectionnez le menu déroulant des assets sur GitHub, et cliquez sur `QuestPatcher-ubuntu.zip`, puis attendez que le téléchargement se termine.
 2. Extraire le fichier ZIP à l'aide du gestionnaire d'archives.
@@ -114,9 +114,9 @@ Si vous voulez supprimer un de vos mods, appuyez sur le bouton `Delete` à côt�
 
 !> Pour utiliser les cosmétiques, vous devrez installer le Gorilla Cosmetics mod. Sinon, il n'apparaîtront jamais dans le jeu.
 
-To view your installed cosmetics and maps, click the `Cosmetics & Other Items` tab of QuestPatcher. Use the drop-down to select the file type you want to manage.
+Pour voir les cosmétiques et les cartes que vous avez installés, appuyez sur la section `Cosmetics & Other Items` du QuestPatcher. Déroulez le menu pour sélectionner le ou les fichiers que vous voulez modifier.
 
-**Cosmetics can be installed by dragging and dropping them into the grey area, or by clicking the Browse button.**
+**Les cosmétiques peuvent être installés en les apportant directement dans la partie grise du QuestPatcher depuis vos fichiers, ou en appuyant le bouton Browse.**
 
 ![QuestPatcher Cosmetics Menu](../docs/files/questpatcherotheritems.png)
 
