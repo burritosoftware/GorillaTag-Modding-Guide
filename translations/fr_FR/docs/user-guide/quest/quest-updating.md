@@ -16,11 +16,11 @@
 
 > Mettre à jour le tag Gorilla *effacera vos paramètres*, comme le nom, les couleurs, la file d'attente, etc. Vous pouvez facilement réajouter ces paramètres par le biais de l'ordinateur a l'interieur de l'arbre.
 
-Gorilla Tag while modded **cannot be updated through the Update dialog or the Store**. To update Gorilla Tag with mods, you will need to uninstall Gorilla Tag, reinstall the latest version, mod it with QuestPatcher, and then restore your mods. While it might sound long, it shouldn't be too bad.
+Lorsque GorillaTag est moddé, **il ne peut pas être mis à jour normalement ou depuis le magasin Oculus**. Pour mettre à jour Gorilla Tag avec des mods, vous devrez désinstaller le jeu, installer la dernière version, modder le jeu à nouveau avec QuestPatcher, puis restaurer vos mods. Cela parraît prendre beacoup de temps à faire, mais cela ne devrait pas l'être.
 
 ### Désinstallation de Gorilla Tag {docsify-ignore}
 
-!> **It's important to uninstall Gorilla Tag via QuestPatcher.** Uninstalling a modded game through Oculus Home may cause the game to get stuck uninstalling.
+!> **Il est important de désinstaller Gorilla Tag avec QuestPatcher.** Désinstaller un jeu moddé avec le menu Oculus peut causer le jeu à rester bloqué lorsqu'il se désinstalle.
 
 1. Branchez votre Quest sur votre ordinateur, ouvrez QuestPatcher et allez dans le menu **Tools & Options** à gauche.
 2. Cliquez sur le bouton rouge **Uninstall App** , puis cliquez sur **Uninstall App** à nouveau. QuestPatcher fermera. ![Désinstaller l'application](../docs/files/uninstallapp.png)
