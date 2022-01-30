@@ -31,9 +31,9 @@ Lorsque GorillaTag est moddé, **il ne peut pas être mis à jour normalement ou
 
 ### Modding de Gorilla Tag {docsify-ignore}
 
-Après que Gorilla Tag ait fini l'installation, re-modder votre jeu avec le guide [**Modding Sur Quest**](quest-guide) pour modder votre jeu à nouveau. Then, **reinstall your mods.**
+Après que Gorilla Tag ait fini l'installation, re-modder votre jeu avec le guide [**Modding Sur Quest**](quest-guide). Puis, **réinstaller vos mods.**
 
-!> Before reinstalling mods, you should check the source to see if they have updated or confirmed the mod to work on the latest version.
+!> Avant de réinstaller des mods, vous devriez vérifier si le mod que vous avez installé a été mis à jour et qu'il fonctionne avec la version la plus récente du jeu.
 
 ---
 
