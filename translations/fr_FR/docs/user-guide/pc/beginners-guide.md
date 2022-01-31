@@ -34,9 +34,9 @@ Après avoir installé le Monke Mod Manager, cliquer le 2 fois depuis vos fichie
 
 ?> Si vous avez installé Gorilla Tag sur une autre unité de stockage, Monke Mod Manager vous demandera de sélectionner `Gorilla Tag.exe` depuis votre dossier d'installation. Allez à la section [**Dossier d'installation**](#install-folder) pour trouver votre dossier d'installation.
 
-Ensuite, vous pouvez choisir les mods que vous voulez installer. BepInEx is the modloader for Gorilla Tag and cannot be unchecked. To update a mod, simply select the installed mod again. If you would like to get more information on a mod, click on it then hit the *View Mod Info* button.
+Ensuite, vous pouvez choisir les mods que vous voulez installer. BepInEx est le chargeur de mods pour Gorilla tag et ne peut pas être désactivé. Pour mettre à jour un mod, sélectionnez tout simplement le mod installé une autre fois. Si vous désirer plus d'informations sur un mod, appuyez sur celui-ci puis appuyez sur le bouton *View Mod Info*.
 
-After you select the mods you would like to install/update, hit the *Install/Update* button to begin the process. When the status monitor in the bottom left says "*Install complete!*", you're almost there!
+Après avoir choisi les mods que vous voulez installer/mettre à jour, appuyez sur le bouton *Install/Update* pour commencer le processus. When the status monitor in the bottom left says "*Install complete!*", you're almost there!
 
 If it's your first time modding (or starting with a clean install), you'll need to launch Gorilla Tag once and close it to initialize BepInEx. **You may not see any mods load the first time you launch Gorilla Tag after modding, this is normal.**  
 After that, re-launch Gorilla Tag and if everything went well, your mods will now load into the game. Congratulations!
