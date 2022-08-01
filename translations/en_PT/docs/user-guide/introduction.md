@@ -3,6 +3,8 @@
 Get up and running with modifications to Gorilla Tag to enhance your experience.  
 Reject humanity, return to monke.
 
+Check us out on Twitter [@gorillatagmods](https://twitter.com/gorillatagmods).
+
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="introduction"></div> -->
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
