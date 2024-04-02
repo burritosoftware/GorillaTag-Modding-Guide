@@ -8,3 +8,5 @@ Reject humanity, return to monke.
 This guide is a fork of [wiiu.hacks.guide](https://wiiu.hacks.guide).
 
 [The guide can be found here!](https://gorillatagmodding.burrito.software)
+
+This project is tested with BrowserStack.
