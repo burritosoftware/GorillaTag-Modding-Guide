@@ -31,7 +31,7 @@ Modding the game is allowed by the developers of Gorilla Tag, however keep in mi
 
 ### End Goal
 
-This guide has the end goal of taking a completely unmodified Gorilla Tag installation from vanilla to modded with BepInEx (PC) or QuestLoader (Quest).
+This guide has the end goal of taking a completely unmodified Gorilla Tag installation from vanilla to modded with BepInEx (PC)
 
 ---
 
