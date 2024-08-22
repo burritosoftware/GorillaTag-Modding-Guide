@@ -13,16 +13,11 @@ Applicable hardware includes:
 - HTC Vive/Vive Pro/Vive Pro Eye/Cosmos
 - Oculus Rift/Rift S
 - Windows Mixed Reality headsets
-- Oculus Quest/Quest 2 using [**Oculus Link**](https://support.oculus.com/444256562873335/)
+- Oculus Quest/Quest 2 using [**Oculus Link**](https://support.oculus.com/444256562873335/) or virtual desktop or steam link.
 
 > ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
 
 ## ![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=24)&nbsp;Quest Modding
 
-If you are using the Oculus Quest version of the game, follow our [**Quest Modding**](quest-guide) guide.
+Quest Modding Has been discontinued.
 
-Applicable hardware includes:
-
-- Oculus Quest/Quest 2
-
-> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)]()&nbsp;[**Continue with Quest Modding**](quest-guide)

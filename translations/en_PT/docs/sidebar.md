@@ -1,14 +1,10 @@
 - **Matey Guide**
 - [Here Be The Start Of It All](./)
-- [Pick Yer Platform](choose-guide)
+- [Pick Yer Platform](no longer a thing' its pc only')
 - **PC Moddin'**
 - [Newbie's Words](pc-guide)
 - [Updatin' Mods](pc-updating)
 - [Custom Seas](pc-maploading)
-- **Quest Moddin'**
-- [Newbie's Words](quest-guide)
-- [Updatin' Mods](quest-updating)
-- [Custom Maps](quest-maploading)
 - **Extras**
 - [Frequently Asked Questions](../faq)
 - **Links**
