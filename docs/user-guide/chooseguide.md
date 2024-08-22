@@ -21,4 +21,3 @@ Applicable hardware includes:
 
 Quest Modding Has been discontinued.
 
-> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)]()&nbsp;
