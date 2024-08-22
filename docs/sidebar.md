@@ -1,6 +1,5 @@
 - **User Guide**
 - [Introduction](./)
-- [Choose Your Platform](pc only now.)
 - **PC Modding**
 - [Beginner's Guide](pc-guide)
 - [Updating Mods](pc-updating)
