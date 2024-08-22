@@ -12,8 +12,7 @@
 **For PC:** Open Monke Mod Manager and select the checkboxes besides the mods you'd like to install, and then hit the *Install/Update* button.  
 For mods outside of Monke Mod Manager, download them, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** channel, or other sources. **Make sure to download any dependencies required by the mod.**
 
-**For Quest:** You can download the mod(s) you wish to install from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#quest-mod-releases** channel, or other sources. **Dependencies should auto-download in QuestPatcher, but if they do not, make sure to download them.**
-
+**For Quest:** **Quest Modding has been discontinued.**
 ## Game Questions
 
 ### What is Gorilla Tag? {docsify-ignore}
@@ -28,7 +27,7 @@ From the developer:
 
 ### Where can I get Gorilla Tag? {docsify-ignore}
 
-You can download Gorilla Tag **for free** from Steam or Oculus App Lab.
+You can download Gorilla Tag **for free if your on quest (no mods) or buy it on steam or meta quest link app.** from Steam or Oculus Store!
 
 > ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](https://store.steampowered.com/app/1533390/Gorilla_Tag/)&nbsp;[**Download on Steam**](https://store.steampowered.com/app/1533390/Gorilla_Tag/) {docsify-ignore}
-> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)](https://sidequestvr.com/app/2157/gorilla-tag)&nbsp;[**Download on Oculus App Lab**](https://www.oculus.com/experiences/quest/4979055762136823) {docsify-ignore}
+> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)](https://sidequestvr.com/app/2157/gorilla-tag)&nbsp;[**Download on Oculus Store!!**](https://www.oculus.com/experiences/quest/4979055762136823) {docsify-ignore}
