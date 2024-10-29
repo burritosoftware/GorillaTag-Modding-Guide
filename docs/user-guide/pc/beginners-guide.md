@@ -1,9 +1,5 @@
 # PC Beginner's Guide
 ---
->
-> This guide only applies to the PC version of Gorilla Tag.  
-> If you're using a Quest (without Link), go to the [**Quest Modding**](quest-guide) guide.
->
 
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="pc-mod-guide"></div> -->
 <!-- Guide Page Ad -->
@@ -22,8 +18,10 @@
 
 ?> This is currently the **recommended mod installer**.
 
+!> Not all mods from Monke Mod Manager are updated to the latest version of the game, it is recommended that you only use it to install BepInEx and get mods from the [Gorilla Tag Modding Group](https://discord.gg/b2MhDBAzTv).
+
 Monke Mod Manager is a mod installer that will install custom mods into Gorilla Tag automatically, and can be re-run in order to update the mods. Monke Mod Manager also notifies you of any updates upon launch by opening the latest release's page if available.  
-Download Monke Mod Manager from [**Steven's GitHub**](https://github.com/DeadlyKitten/MonkeModManager/releases/latest). Select the **Assets** dropdown and download the .exe file named `MonkeModManager.exe`.
+Download Monke Mod Manager from [**Buzz's GitHub**](https://github.com/BzzzThe18th/MonkeModManager/releases/latest). Select the **Assets** dropdown and download the .exe file named `MonkeModManager.exe`.
 
 > Note: If Windows alerts you that the file is unsafe/at risk, choose to keep/run anyway. This is a false-positive.
 

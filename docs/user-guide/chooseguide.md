@@ -19,10 +19,6 @@ Applicable hardware includes:
 
 ## ![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=24)&nbsp;Quest Modding
 
-If you are using the Oculus Quest version of the game, follow our [**Quest Modding**](quest-guide) guide.
+As of September 27, 2021 mods are unavailable for the Meta Quest. You can still use mods with Quest Link and a PC version of the game!
 
-Applicable hardware includes:
-
-- Oculus Quest/Quest 2
-
-> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)]()&nbsp;[**Continue with Quest Modding**](quest-guide)
+> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](pc-guide)&nbsp;[**Continue with PC Modding**](pc-guide)
