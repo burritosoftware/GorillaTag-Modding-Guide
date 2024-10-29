@@ -20,12 +20,10 @@ For live support with this guide please visit us in **#installation-help** on th
 ### What can you do with mods?
 
 You can:
-- Play custom maps with [*Monke Map Loader*](https://monkemaphub.com/)
-- Customize your gorilla with custom materials, infected materials, and hats with [*Gorilla Cosmetics*](https://github.com/legoandmars/GorillaCosmetics)
-- Jump high with [*Space Monke*](https://github.com/legoandmars/SpaceMonke)
-- Change the look of the sky with [*MonkeSkies*](https://github.com/Raemien/MonkeSkies)
-- Dash where you look with [*DashMonke*](https://github.com/TrueTamashii/DashMonke)
-- Enhance the gorilla computer, see your currently loaded mods, change monitor POV, and more with [*Computer Interface*](https://github.com/ToniMacaroni/ComputerInterface)
+- Customize your gorilla with custom materials, infected materials, hats, and holdables with [*Custom Cosmetics*](https://github.com/wryser/CustomCosmetics)
+- Use custom shirts, badges and more with [*Gorilla Shirts*](https://github.com/developer9998/GorillaShirts)
+- Get a variety of mods all with the press of a button with [*GorillaWatch*](https://github.com/ArtificialGorillas/GorillaWatch)
+- Change the background of the gorilla computer with [*Computer Backgrounds*](https://github.com/Striker-67/computer-backgrounds)
 
 There are *many more mods* to discover, and you'll find them in the **Downloads** category on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv).
 
@@ -33,11 +31,11 @@ There are *many more mods* to discover, and you'll find them in the **Downloads*
 
 Modding the game is allowed by the developers of Gorilla Tag, however keep in mind the following:
 
-!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to private lobbies. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
+!> All mods carry the risk of getting banned. Though you should be fine as long as you're using trusted mods, note that the use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to modded lobbies. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
 
 ### End Goal
 
-This guide has the end goal of taking a completely unmodified Gorilla Tag installation from vanilla to modded with BepInEx (PC) or QuestLoader (Quest).
+This guide has the end goal of taking a completely unmodified Gorilla Tag installation from vanilla to modded with BepInEx.
 
 ---
 
