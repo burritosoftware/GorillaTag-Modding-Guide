@@ -1,7 +1,7 @@
 # Choose Your Platform {docsify-ignore-all}
 ---
 
-Gorilla Tag is available for both PC and Oculus Quest. Since the modding scene is different for both platforms, the beginners guide is split into [**PC Modding**](pc-guide) and [**Quest Modding**](quest-guide).
+Gorilla Tag is available for both PC and Oculus Quest. Since the modding scene is different for both platforms, the beginners guide is split into [**PC Modding**](pc-guide) and [**Quest Modding**](quest-guide). Since the modding scene is different for both platforms, the beginners guide is split into [**PC Modding**](pc-guide) and [**Quest Modding**](quest-guide).
 
 ## ![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=24)&nbsp;PC Modding
 
