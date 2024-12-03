@@ -9,12 +9,12 @@ Check us out on Twitter [@gorillatagmods](https://twitter.com/gorillatagmods).
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-1545654854838298"
-     data-ad-slot="8114351325"
+     data-ad-client="ca-pub-1965221367974935"
+     data-ad-slot="2604239380"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-?> **Discord Help** Pour de l'aide en direct, veuillez nous voir dans **#installation-help** dans le [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) et demandez, en anglais, pour de l'aide. Veuillez regarder la section [Questions Fréquemment Posées](faq) pour vérifier si votre ou vos questions ont déjà été répondues.
+?> **Discord Help** For live support with this guide please visit us in **#installation-help** on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) and ask, in English, for assistance. Veuillez regarder la section [Questions Fréquemment Posées](faq) pour vérifier si votre ou vos questions ont déjà été répondues.
 
 ### Que pouvez-vous faire avec les mods ?
 
