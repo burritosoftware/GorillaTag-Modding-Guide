@@ -7,8 +7,8 @@
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-1545654854838298"
-     data-ad-slot="8114351325"
+     data-ad-client="ca-pub-1965221367974935"
+     data-ad-slot="2604239380"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 

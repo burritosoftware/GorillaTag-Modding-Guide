@@ -3,12 +3,14 @@
 Starte mit Modifikationen an Gorilla Tag und verbessere deine Erfahrung.  
 "Reject humanity, return to monke".
 
+Check us out on Twitter [@gorillatagmods](https://twitter.com/gorillatagmods).
+
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="introduction"></div> -->
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-1545654854838298"
-     data-ad-slot="8114351325"
+     data-ad-client="ca-pub-1965221367974935"
+     data-ad-slot="2604239380"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 

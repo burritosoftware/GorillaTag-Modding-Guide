@@ -8,8 +8,8 @@
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-1545654854838298"
-     data-ad-slot="8114351325"
+     data-ad-client="ca-pub-1965221367974935"
+     data-ad-slot="2604239380"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
@@ -19,10 +19,10 @@
 
 ![Monke Mod Manager logo](../docs/files/mmmlogo.png)
 
-?> This is currently the **recommended mod installer**.
+?> Ceci est présentement **l'installeur de mods recommandé**.
 
-Monke Mod Manager is a mod installer that will install custom mods into Gorilla Tag automatically, and can be re-run in order to update the mods. Monke Mod Manager also notifies you of any updates upon launch by opening the latest release's page if available.  
-Download Monke Mod Manager from [**Steven's GitHub**](https://github.com/DeadlyKitten/MonkeModManager/releases/latest). Select the **Assets** dropdown and download the .exe file named `MonkeModManager.exe`.
+Monke Mod Manager est un installeur de mods qui installe automatiquement des mods dans Gorilla Tag, et qui peut mettre à jour ses mods lorsqu'on le réutilise. Le Monke Mod Manager vous avertit lorsque vous le démarrer s'il y a des mises à jour disponibles en ouvrant la page avec la plus récente mise à jour.  
+Vous pouvez installer Monke Mod Manager depuis [**le Github de Steven**](https://github.com/DeadlyKitten/MonkeModManager/releases/latest). Sélectionnez le menu déroulant **Assets** et installez le fichier .exe appelé `MonkeModManager.exe`.
 
 > Note : Si Windows vous avertit que le fichier est dangereux ou risqué, choisissez de conserver/exécuter quand même. C'est un faux positif.
 
@@ -30,13 +30,13 @@ Download Monke Mod Manager from [**Steven's GitHub**](https://github.com/DeadlyK
 
 ## Instructions d'installation
 
-After you've downloaded Monke Mod Manager, double-click the executable to run it. By default, Monke Mod Manager should automatically fill in your Gorilla Tag installation folder.
+Après avoir installé le Monke Mod Manager, cliquer le 2 fois depuis vos fichiers pour l'ouvrir. Par défaut, Monke Mod Manager devrait automatiquement s'installer dans votre dossier d'installation de Gorilla Tag.
 
-?> If you installed Gorilla Tag to a seperate drive or path, Monke Mod Manager will prompt you to select `Gorilla Tag.exe` from your installation folder. Go to the [**Install Folder**](#install-folder) section to find your installation folder.
+?> Si vous avez installé Gorilla Tag sur une autre unité de stockage, Monke Mod Manager vous demandera de sélectionner `Gorilla Tag.exe` depuis votre dossier d'installation. Allez à la section [**Dossier d'installation**](#install-folder) pour trouver votre dossier d'installation.
 
-Next, you may select any mods that are listed. BepInEx is the modloader for Gorilla Tag and cannot be unchecked. To update a mod, simply select the installed mod again. If you would like to get more information on a mod, click on it then hit the *View Mod Info* button.
+Ensuite, vous pouvez choisir les mods que vous voulez installer. BepInEx est le chargeur de mods pour Gorilla tag et ne peut pas être désactivé. Pour mettre à jour un mod, sélectionnez tout simplement le mod installé une autre fois. Si vous désirer plus d'informations sur un mod, appuyez sur celui-ci puis appuyez sur le bouton *View Mod Info*.
 
-After you select the mods you would like to install/update, hit the *Install/Update* button to begin the process. When the status monitor in the bottom left says "*Install complete!*", you're almost there!
+Après avoir choisi les mods que vous voulez installer/mettre à jour, appuyez sur le bouton *Install/Update* pour commencer le processus. When the status monitor in the bottom left says "*Install complete!*", you're almost there!
 
 If it's your first time modding (or starting with a clean install), you'll need to launch Gorilla Tag once and close it to initialize BepInEx. **You may not see any mods load the first time you launch Gorilla Tag after modding, this is normal.**  
 After that, re-launch Gorilla Tag and if everything went well, your mods will now load into the game. Congratulations!
