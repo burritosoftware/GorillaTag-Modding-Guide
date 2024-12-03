@@ -7,8 +7,8 @@
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-1545654854838298"
-     data-ad-slot="8114351325"
+     data-ad-client="ca-pub-1965221367974935"
+     data-ad-slot="2604239380"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
@@ -96,7 +96,7 @@ Pour installer un mod, appuyez le bouton browse dans la section `Mod Management`
 
 !> Installer un mod peut installer d'autres mods qui sont nécessaires au fonctionnement de celui-ci. Ne les désinstaller pas!
 
-Une fois que le mod est installé, vous devriez le voir dans la section Mods du QuestPatcher. ![Mods Installed](../docs/files/questpatcherinstalledmods.png)
+Once the mod is installed, you should see it in the Mods section of QuestPatcher. ![Mods Installed](../docs/files/questpatcherinstalledmods.png)
 
 **Vous pouvez désormais ouvrir votre jeu et utiliser vos mods!**
 
