@@ -5,6 +5,7 @@
 > If you're using a SteamVR headset or a Quest **with Link**, go to the [**PC Modding**](pc-guide) guide.
 >
 
+!> As of September 2021, Quest Mod support has been dropped, and this guide will not work until they are supported again
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="quest-mod-guide"></div> -->
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
