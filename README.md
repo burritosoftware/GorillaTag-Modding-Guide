@@ -5,8 +5,10 @@
 Get up and running with modifications to Gorilla Tag to enhance your experience.  
 Reject humanity, return to monke.
 
+Note: Translations may still be outdated!
+
 This guide is a fork of [wiiu.hacks.guide](https://wiiu.hacks.guide).
 
-[The guide can be found here!](https://gorillatagmodding.burrito.software)
+[The guide can be found here!](https://gorillatagmodding.ngbatzstudios.com)
 
 This project is tested with BrowserStack.

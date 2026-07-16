@@ -2,16 +2,16 @@
 ---
 >
 > This guide only applies to the PC version of Gorilla Tag.  
-> If you're using a Quest (without Link), go to the [**Quest Mod Updating**](quest-updating) guide.
+>
 
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="pc-mod-updating"></div> -->
 <!-- Guide Page Ad -->
-<ins class="adsbygoogle"
+<!-- ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-1965221367974935"
      data-ad-slot="2604239380"
      data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-full-width-responsive="true"></ins -->
 
 ## Updating Gorilla Tag
 

@@ -1,18 +1,12 @@
 # PC Beginner's Guide
 ---
 >
-> This guide only applies to the PC version of Gorilla Tag.  
-> If you're using a Quest (without Link), go to the [**Quest Modding**](quest-guide) guide.
+> This guide only applies to the PC version of Gorilla Tag.
 >
-
-<!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="pc-mod-guide"></div> -->
-<!-- Guide Page Ad -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1965221367974935"
-     data-ad-slot="2604239380"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+> Remember Gorilla Tag costs money now so you need to buy it before anything.
+> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](https://store.steampowered.com/app/1533390/Gorilla_Tag/)&nbsp;[**Buy on Steam**](https://store.steampowered.com/app/1533390/Gorilla_Tag/) {docsify-ignore}
+> If you're using a Quest (without Link), you can't mod anymore unless you have a pc.
+>
 
 ## Installers
 
@@ -23,7 +17,7 @@
 ?> This is currently the **recommended mod installer**.
 
 Monke Mod Manager is a mod installer that will install custom mods into Gorilla Tag automatically, and can be re-run in order to update the mods. Monke Mod Manager also notifies you of any updates upon launch by opening the latest release's page if available.  
-Download Monke Mod Manager from [**Steven's GitHub**](https://github.com/DeadlyKitten/MonkeModManager/releases/latest). Select the **Assets** dropdown and download the .exe file named `MonkeModManager.exe`.
+Download Monke Mod Manager from [**Ngbatz's GitHub**](https://github.com/ngbatzyt/MonkeModManager/releases/latest) or by typing ?mmm in `#pc-installation-help` in GTMG. Select the **Assets** dropdown and download the .exe file named `MonkeModManager.exe`.
 
 > Note: If Windows alerts you that the file is unsafe/at risk, choose to keep/run anyway. This is a false-positive.
 
@@ -49,9 +43,9 @@ After that, re-launch Gorilla Tag and if everything went well, your mods will no
 ### Default Location
 
 If you installed your game on your main drive, this should be your installation folder.
-`C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag`
+`C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag` or `C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag`
 
-### Other Locations
+### Other Locations (Steam)
 
 If you installed your game in a different location, follow these instructions to find your installation folder.
 
@@ -64,7 +58,7 @@ If you installed your game in a different location, follow these instructions to
 ![Copy Folder Path Preview](../docs/files/copyfolderpath.png)
 
 ## Manual Installation
-A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
+A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 5.
 
 ### Install BepInEx
 
@@ -75,13 +69,17 @@ A mod installer is the recommended way to install mods. See the section [above](
 
 3. Run Gorilla Tag once to complete installation.
 
+!> This step (4) is required otherwise mods will not work! MMM does do this for you.
+
+4. Go to your config folder `BepInEx/config`, which is located in your Gorilla Tag install folder. Then open `BepInEx.cfg` in notepad and find the line `HideManagerGameObject = false` and change it to true.
+
 ### Install Mods
 
-4. Download the mod(s) you wish to install, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** channel, or other sources. **Make sure to download any dependencies required by the mod.**  
+5. Download the mod(s) you wish to install, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** forum, or other sources. **Make sure to download any dependencies required by the mod.**  
 
 ![Plugins Folder Preview](../docs/files/pluginsfolder.png)
 
-5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your Gorilla Tag install folder, and the files should go into the corresponding folders. If you have a .dll file, you'll usually want to put it in `BepInEx/plugins`.
+6. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your Gorilla Tag install folder, and the files should go into the corresponding folders. If you have a .dll file, you'll usually want to put it in `BepInEx/plugins`.
 
 ## Uninstalling Mods
 
@@ -89,7 +87,7 @@ Either remove the mod's .dll or folder from the `BepInEx/plugins` folder, which 
 
 ## Installing Maps {docsify-ignore}
 
-> Check out the [**PC Custom Maps Guide**](pc-maploading) for info on custom maps, installation, and where to new new maps.
+> Check out the [**PC Custom Maps Guide**](pc-maploading) for info on custom maps.
 
 ## Updating Mods {docsify-ignore}
 

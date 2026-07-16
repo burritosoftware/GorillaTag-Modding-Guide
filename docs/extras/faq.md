@@ -5,14 +5,41 @@
 
 ### Isn't modding the game cheating? {docsify-ignore}
 
-!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to private lobbies. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
+!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to modded lobbies with Utilla. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
 
 ### Where can I get mods? {docsify-ignore}
 
 **For PC:** Open Monke Mod Manager and select the checkboxes besides the mods you'd like to install, and then hit the *Install/Update* button.  
-For mods outside of Monke Mod Manager, download them, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mod-releases** channel, or other sources. **Make sure to download any dependencies required by the mod.**
+For mods outside of Monke Mod Manager, download them, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#pc-mods** forum, or other sources. **Make sure to download any dependencies required by the mod.**
 
-**For Quest:** You can download the mod(s) you wish to install from GitHub, the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv) **#quest-mod-releases** channel, or other sources. **Dependencies should auto-download in QuestPatcher, but if they do not, make sure to download them.**
+**For Quest:** Mods are no longer supported for quest.
+
+### What's the difference between cheating and modding?
+This is the Gorilla Tag Modding Groups view on it.
+
+Cheating is prohibited by the developers of the game, and goes against the Gorilla Tag intellectual property. (read more at https://gorillatagvr.com/gorillatagvr-mod-policy/)
+
+#### What is cheating?
+Cheating is including but not limited to:
+* Using mods that work in non-modded lobbies
+* Unless it client-sided/only visible for other modders, like Gorilla Shirts
+* Using cheats
+* Cheats being something like tag gun, tag all and such. They’re not allowed in modded lobbies either. Mainly seen in mod menus.
+* Player tracking
+* Tracking is targeting a specific user to get their room code and if they’re online or not.
+* Cheating and Modding are not the same thing.
+
+What happens if I do it anyway?
+* You’ll get banned from the game, GTMG and most likely also the official Gorilla Tag Discord server.
+* You will have a high chance of installing malicious software as cheat creators usually ship malware with cheats.
+
+#### How do I know if this mod is a cheat?
+Well to be on the safe side, we recommend only using mods from this server or Monke Mod Manager. (type ?mmm to get a link)
+If you want to be extra sure, then make sure it doesn’t go against anything in the What is cheating? section. Or just ask one of our trusted or verified modders!
+
+We encourage you to not to use or install cheats, as it’s ruining the game and our will to keep modding. Please Mod Responsibly!
+
+#### You can use the command !modding in GTMG for AA's official views on it.
 
 ## Game Questions
 
@@ -28,7 +55,7 @@ From the developer:
 
 ### Where can I get Gorilla Tag? {docsify-ignore}
 
-You can download Gorilla Tag **for free** from Steam or Oculus App Lab.
+You can download Gorilla Tag **for free** on Quest but for pc it costs around 20 USD.
 
-> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](https://store.steampowered.com/app/1533390/Gorilla_Tag/)&nbsp;[**Download on Steam**](https://store.steampowered.com/app/1533390/Gorilla_Tag/) {docsify-ignore}
-> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)](https://sidequestvr.com/app/2157/gorilla-tag)&nbsp;[**Download on Oculus App Lab**](https://www.oculus.com/experiences/quest/4979055762136823) {docsify-ignore}
+> ### [![Steam Logo](https://icongr.am/simple/steam.svg?color=A9A9A9&size=18.72)](https://store.steampowered.com/app/1533390/Gorilla_Tag/)&nbsp;[**Buy on Steam**](https://store.steampowered.com/app/1533390/Gorilla_Tag/) {docsify-ignore}
+> ### [![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=18.72)](https://sidequestvr.com/app/2157/gorilla-tag)&nbsp;[**Download on Oculus Quest**](https://www.oculus.com/experiences/quest/4979055762136823) {docsify-ignore}
